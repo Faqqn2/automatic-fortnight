@@ -1,0 +1,49 @@
+{
+  "films": [
+    {
+      "name": "a",
+      "year": 1,
+      "genre": "Acción",
+      "voters": 1,
+      "totalVotes": 1,
+      "raiting": "1.00",
+      "id": 3
+    },
+    {
+      "name": "1",
+      "year": 1,
+      "genre": "Acción",
+      "voters": 1,
+      "totalVotes": 2,
+      "raiting": "2.00",
+      "id": 4
+    },
+    {
+      "name": "12",
+      "year": 1,
+      "genre": "Acción",
+      "voters": 1,
+      "totalVotes": 1,
+      "raiting": "1.00",
+      "id": 5
+    },
+    {
+      "name": "1234",
+      "year": 1,
+      "genre": "Acción",
+      "voters": 1,
+      "totalVotes": 11,
+      "raiting": "11.00",
+      "id": 6
+    },
+    {
+      "name": "1333",
+      "year": 111,
+      "genre": "Acción",
+      "voters": 123,
+      "totalVotes": 123,
+      "raiting": "1.00",
+      "id": 7
+    }
+  ]
+}
